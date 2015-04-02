@@ -9,10 +9,10 @@
   "homepage": "http://objecss.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidhund/objecss-scss"
+    "url": "https://github.com/objecss/objecss-scss"
   },
   "bugs": {
-    "url": "https://github.com/davidhund/objecss-scss/issues"
+    "url": "https://github.com/objecss/objecss-scss/issues"
   },
   "keywords": [
     "objecss",

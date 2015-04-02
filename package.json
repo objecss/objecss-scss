@@ -1,0 +1,28 @@
+{
+  "name": "OBJECSS",
+  "version": "0.1.0",
+  "description": "A design-free, modern, Responsive, BEM-inspired, OO, Sass-based framework",
+  "main": "main.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "http://objecss.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidhund/objecss-scss"
+  },
+  "bugs": {
+    "url": "https://github.com/davidhund/objecss-scss/issues"
+  },
+  "keywords": [
+    "objecss",
+    "css",
+    "oocss",
+    "sass",
+    "bem",
+    "responsive",
+    "framework"
+  ],
+  "author": "David Hund <@valuedstandards>",
+  "license": "MIT"
+}
